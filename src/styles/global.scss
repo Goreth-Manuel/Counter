@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-color: #34a;
+  color: #fff;
+}
+
+body {
+  font: 16px "Helvetica Neve" Arial, sans-serif;
+  color: #121214;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 250px 0;
+}
+
+button {
+  padding: 10px;
+  background: rgb(187, 0, 171);
+  border-color: rgb(187, 0, 171);
+  margin: 10px 0;
+}
+
+button:hover {
+  background-color: rgb(223, 17, 161);
+}
