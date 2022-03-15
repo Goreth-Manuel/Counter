@@ -1,2 +1,2 @@
 # Counter
-Um contador para praticar o conceito de estados no reactJs, e usando o Fast Refresh
+Um contador para praticar o conceito de estados no ReactJS usando o Fast Refresh
